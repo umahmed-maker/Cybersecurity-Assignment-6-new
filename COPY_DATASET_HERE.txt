@@ -1,0 +1,1 @@
+Copy data/phishing.csv from your Assignment 5 repository into this folder before running experiment.py.
